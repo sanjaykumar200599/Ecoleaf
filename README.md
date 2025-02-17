@@ -1,3 +1,5 @@
+Deployment Link: https://sanjaykumar200599-plant-disease-detection-main-app-8fbyrr.streamlit.app/
+
 Project Overview
 Plant diseases can cause significant losses in agriculture, affecting both crop yield and quality. Early and accurate detection of plant diseases is crucial for effective management and control. This project focuses on developing a machine learning-based plant disease detection system that can classify different plant diseases from leaf images.
 Objectives
